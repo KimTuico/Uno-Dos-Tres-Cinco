@@ -1,4 +1,4 @@
-import pyglet                                                   #version 1.5.23 of pyglet
+import pyglet                                                   #version 1.5.23
 from home_screen_module import main_menu_draw
 from home_screen_module import main_menu_mouse_press
 from home_screen_module import main_menu_mouse_motion
